@@ -1,0 +1,3 @@
+[submodule "intro-to-git-and-github"]
+	path = intro-to-git-and-github
+	url = git@github.com:gdi-nyc/gdi-core-git-github.git

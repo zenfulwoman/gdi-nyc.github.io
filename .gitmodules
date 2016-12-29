@@ -1,3 +1,33 @@
 [submodule "intro-to-git-and-github"]
   path = intro-to-git-and-github
   url = https://github.com/gdi-nyc/gdi-core-git-github.git
+[submodule "intro-to-command-line"]
+	path = intro-to-command-line
+	url = https://github.com/gdi-nyc/intro-to-command-line.git
+[submodule "intro-to-node"]
+	path = intro-to-node
+	url = https://github.com/gdi-nyc/Intro-to-Node.js.git
+[submodule "intro-to-reactjs"]
+	path = intro-to-reactjs
+	url = https://github.com/gdi-nyc/intro-to-react.git
+[submodule "developer-tools-overview"]
+	path = developer-tools-overview
+	url = https://github.com/gdi-nyc/gdi-developer-tools.git
+[submodule "intro-to-meteorjs"]
+	path = intro-to-meteorjs
+	url = https://github.com/gdi-nyc/intro-to-meteor.git
+[submodule "intro-to-html-css"]
+	path = intro-to-html-css
+	url = https://github.com/gdi-nyc/gdi-core-html-css.git
+[submodule "intermediate-html-css"]
+	path = intermediate-html-css
+	url = https://github.com/gdi-nyc/gdi-featured-intermediate-html-css.git
+[submodule "intro-web-concepts"]
+	path = intro-web-concepts
+	url = https://github.com/gdi-nyc/gdi-intro-web-concepts.git
+[submodule "intro-to-javascript"]
+	path = intro-to-javascript
+	url = https://github.com/gdi-nyc/gdi-core-javascript.git
+[submodule "intro-php-mysql"]
+	path = intro-php-mysql
+	url = https://github.com/gdi-nyc/gdi-intro-php-mysql.git

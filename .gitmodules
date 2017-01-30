@@ -31,3 +31,9 @@
 [submodule "intro-php-mysql"]
 	path = intro-php-mysql
 	url = https://github.com/gdi-nyc/gdi-intro-php-mysql.git
+[submodule "intro-web-accessibility"]
+	path = intro-web-accessibility
+	url = https://github.com/gdi-nyc/girldevelopit-rdu-access.git
+[submodule "flexbox"]
+	path = flexbox
+	url = https://github.com/gdi-nyc/intro-to-flexbox.git
